@@ -30,13 +30,6 @@ Sou movido pela curiosidade e pelo desejo contínuo de evoluir como desenvolvedo
         src="https://custom-icon-badges.demolab.com/github/stars/Odachi7?style=for-the-badge&logo=star&label=ESTRELAS&color=4B0082&labelColor=1A1A1A&logoColor=white"
     />
     </a>
-    <a href="https://github.com/Odachi7">
-    <img 
-        alt="GitHub" 
-        title="Me siga no GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/followers/Odachi7?style=for-the-badge&logo=github&label=GITHUB&color=4B0082&labelColor=1A1A1A&logoColor=#9b59b6"
-    />
-    </a>
 </p>
 
 ---
