@@ -2,11 +2,12 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Ryan Rodrigues, tenho 17 anos e sou um desenvolvedor apaixonado por tecnologia e pela criação de soluções através do código. Desde que comecei na programação, encontrei um verdadeiro interesse em construir aplicações modernas, funcionais e com foco na experiência do usuário.
+Hello, I'm Ryan Rodrigues — a 17-year-old developer passionate about technology and building impactful solutions through code.
+Ever since I began programming, I’ve been drawn to creating modern, functional applications that prioritize user experience.
 
-Trabalho principalmente com React, TypeScript, Node.js, HTML e CSS, além de utilizar MongoDB em projetos full stack. Busco sempre escrever códigos limpos e eficientes, e estou em constante aprendizado para acompanhar as melhores práticas do mercado.
+I primarily work with React, TypeScript, Node.js, HTML, and CSS, and I use MongoDB for full stack development. I take pride in writing clean, efficient code and continuously strive to stay updated with industry best practices.
 
-Sou movido pela curiosidade e pelo desejo contínuo de evoluir como desenvolvedor. Meu objetivo é crescer profissionalmente na área de engenharia de software, contribuindo com projetos que gerem valor real e aprimorem minhas habilidades ao longo do caminho.
+Driven by curiosity and a strong desire to grow, my goal is to evolve as a software engineer by contributing to meaningful projects that deliver real value while honing my skills along the way.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ryanrodrigues77/">
