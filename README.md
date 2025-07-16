@@ -163,7 +163,7 @@ Driven by curiosity and a strong desire to grow, my goal is to evolve as a softw
 <br/>
 
 ### 📊 Estatísticas
-
+   
 <p>
   <img 
     align="left" 
