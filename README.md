@@ -28,7 +28,7 @@ Driven by curiosity and a strong desire to grow, my goal is to evolve as a softw
     <img 
         alt="Estrelas" 
         title="Total de estrelas GitHub" 
-        src="[https://custom-icon-badges.demolab.com/github/stars/Odachi7?style=for-the-badge&logo=star&label=ESTRELAS&color=4B0082&labelColor=1A1A1A&logoColor=white](https://custom-icon-badges.demolab.com/github/stars/Odachi7?style=for-the-          badge&logo=star&label=ESTRELAS&color=4B0082&labelColor=1A1A1A&logoColor=white)"
+        src="https://custom-icon-badges.demolab.com/github/stars/Odachi7?style=for-the-badge&logo=star&label=ESTRELAS&color=4B0082&labelColor=1A1A1A&logoColor=white"
     />
     </a>
 </p>
