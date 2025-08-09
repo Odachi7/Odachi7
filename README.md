@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Ryan Rodrigues 
- 
+  
 **`Desenvolvedor FullStack`**       
 
 Hello, I'm Ryan Rodrigues — a 17-year-old developer passionate about technology and building impactful solutions through code.
