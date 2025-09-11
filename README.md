@@ -9,7 +9,7 @@ I primarily work with React, TypeScript, Node.js, HTML, CSS, C# and .NET, and I 
    
 Driven by curiosity and a strong desire to grow, my goal is to evolve as a software engineer by contributing to meaningful projects that deliver real value while honing my skills along the way.
 
-<p align="left">     
+<p align="left">         
   <a href="https://www.linkedin.com/in/ryanrodrigues77/">         
     <img 
       alt="LinkedIn" 
