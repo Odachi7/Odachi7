@@ -8,7 +8,7 @@ Ever since I began programming, I’ve been drawn to creating modern, functional
 I primarily work with React, TypeScript, Node.js, HTML, CSS, C# and .NET, and I use MySQL/PostgreSQL for full stack development. I take pride in writing clean, efficient code and continuously strive to stay updated with industry best practices.
    
 Driven by curiosity and a strong desire to grow, my goal is to evolve as a software engineer by contributing to meaningful projects that deliver real value while honing my skills along the way.
-
+    
 <p align="left">                 
   <a href="https://www.linkedin.com/in/ryanrodrigues77/">                
     <img 
