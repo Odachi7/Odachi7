@@ -19,7 +19,7 @@ Driven by curiosity and a strong desire to grow, my goal is to evolve as a softw
   </a>
   <a href="https://www.instagram.com/7_ryann_/">
     <img 
-      alt="Instagram" 
+      alt="Instagram"     
       title="Instagram" 
       src="https://img.shields.io/badge/-INSTAGRAM-1A1A1A?style=for-the-badge&logo=instagram&logoColor=#9b59b6&labelColor=4B0082&color=1A1A1A"
     />
