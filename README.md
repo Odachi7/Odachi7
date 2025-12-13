@@ -12,7 +12,7 @@ Driven by curiosity and a strong desire to grow, my goal is to evolve as a softw
 <p align="left">                 
   <a href="https://www.linkedin.com/in/ryanrodrigues77/">                       
     <img           
-      alt="LinkedIn" 
+      alt="LinkedIn"    
       title="LinkedIn"         
       src="https://img.shields.io/badge/-LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=#9b59b6&labelColor=4B0082&color=1A1A1A"
     />
