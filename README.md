@@ -4,7 +4,7 @@
                                                       
 Hello, I'm Ryan Rodrigues — a 18-year-old developer passionate about technology and building impactful solutions through code.                                                                                       
 Ever since I began programming, I’ve been drawn to creating modern, functional applications that prioritize user experience.                                                         
-            
+                
 I primarily work with React, TypeScript, Node.js, HTML, CSS, C# and .NET, and I use MySQL/PostgreSQL for full stack development. I take pride in writing clean, efficient code and continuously strive to stay updated with industry best practices.
    
 Driven by curiosity and a strong desire to grow, my goal is to evolve as a software engineer by contributing to meaningful projects that deliver real value while honing my skills along the way.      
