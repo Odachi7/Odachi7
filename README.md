@@ -2,12 +2,11 @@
                    
 **`Desenvolvedor FullStack`**                               
                                                       
-Hello, I'm Ryan Rodrigues — a 18-year-old developer passionate about technology and building impactful solutions through code.                                                                                              
-Ever since I began programming, I’ve been drawn to creating modern, functional applications that prioritize user experience.                                                                
-                
-I primarily work with React, TypeScript, Node.js, HTML, CSS, C# and .NET, and I use MySQL/PostgreSQL for full stack development. I take pride in writing clean, efficient code and continuously strive to stay updated with industry best practices.
-   
-Driven by curiosity and a strong desire to grow, my goal is to evolve as a software engineer by contributing to meaningful projects that deliver real value while honing my skills along the way.      
+Hello, I'm Ryan Rodrigues — a developer passionate about technology and building impactful solutions through code. I enjoy creating modern, scalable applications with a strong focus on performance, usability, and clean architecture.
+
+My main stack includes React, TypeScript, Node.js, HTML, CSS, C#, and .NET, working with MySQL and PostgreSQL in full-stack environments. I value writing maintainable, efficient code and continuously improving my skills by following modern development practices.
+
+Driven by curiosity and a growth mindset, my goal is to evolve as a software engineer while contributing to meaningful projects that solve real problems and create positive user experiences.      
        
 <p align="left">                 
   <a href="https://www.linkedin.com/in/ryanrodrigues77/">                       
