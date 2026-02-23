@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Ryan Rodrigues 
                    
 **`Desenvolvedor FullStack`**                               
-                                                      
+                                                         
 Hello, I'm Ryan Rodrigues — a developer passionate about technology and building impactful solutions through code. I enjoy creating modern, scalable applications with a strong focus on performance, usability, and clean architecture.
 
 My main stack includes React, TypeScript, Node.js, HTML, CSS, C#, and .NET, working with MySQL and PostgreSQL in full-stack environments. I value writing maintainable, efficient code and continuously improving my skills by following modern development practices.
