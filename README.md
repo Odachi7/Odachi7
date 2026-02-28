@@ -9,7 +9,7 @@ My main stack includes React, TypeScript, Node.js, HTML, CSS, C#, and .NET, work
 Driven by curiosity and a growth mindset, my goal is to evolve as a software engineer while contributing to meaningful projects that solve real problems and create positive user experiences.      
        
 <p align="left">                 
-  <a href="https://www.linkedin.com/in/ryanrodrigues77/">                           
+  <a href="https://www.linkedin.com/in/ryanrodrigues77/">                              
     <img           
       alt="LinkedIn"    
       title="LinkedIn"             
