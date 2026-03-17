@@ -14,8 +14,6 @@
 
 ---
 
-## `$ whoami`
-
 ```ts
 const ryan = {
   name:     "Ryan Rodrigues",
@@ -40,7 +38,7 @@ const ryan = {
 
 ---
 
-## `$ stack --list`
+<h1 align="left">stack list</h1>
 
 **Frontend**
 
@@ -68,7 +66,7 @@ const ryan = {
 
 ---
 
-## `$ experience --production`
+<h1 align="left">experience production</h1>
 
 > Development and maintenance of web and desktop solutions in a **large-scale multi-tenant ERP**, focused on integrations, automation and performance:
 
@@ -80,8 +78,6 @@ const ryan = {
 - 🏗️ **Legacy modernization** — Replaced manual VB6 routines with a modern C# + ETL solution, cutting import times from **10+ hours down to under 1 hour**
 
 ---
-
-## `$ projects --latest`
 
 > 📌 **LATEST PROJECT**
 
@@ -106,7 +102,7 @@ ETL system built from scratch for database-to-database migrations — no coding 
 
 ---
 
-## `$ stats --github`
+<h1 align="left">stats github</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=odachi7&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -127,7 +123,7 @@ ETL system built from scratch for database-to-database migrations — no coding 
 
 ---
 
-## `$ contact`
+<h1 align="left">contact</h1> 
 
 <p>
   <a href="https://www.linkedin.com/in/ryanrodrigues77/">
