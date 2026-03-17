@@ -169,14 +169,14 @@ Driven by curiosity and a growth mindset, my goal is to evolve as a software eng
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=odachi7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-<img 
+    src="https://github-readme-stats.vercel.app/api?username=odachi7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=odachi7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=odachi7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </p>
 
 <picture align="center">
