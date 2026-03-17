@@ -1,186 +1,152 @@
-# 👩🏻‍💻 Ryan Rodrigues 
-                       
-**`Desenvolvedor FullStack`**                                            
-                                                         
-Hello, I'm Ryan Rodrigues — a developer passionate about technology and building impactful solutions through code. I enjoy creating modern, scalable applications with a strong focus on performance, usability, and clean architecture.
+<h1 align="center">Ryan Rodrigues</h1>
 
-My main stack includes React, TypeScript, Node.js, HTML, CSS, C#, and .NET, working with MySQL and PostgreSQL in full-stack environments. I value writing maintainable, efficient code and continuously improving my skills by following modern development practices.    
+<p align="center">
+  Full Stack Software Developer • Software Engineering Student
+</p>
 
-Driven by curiosity and a growth mindset, my goal is to evolve as a software engineer while contributing to meaningful projects that solve real problems and create positive user experiences.      
-       
-<p align="left">                 
-  <a href="https://www.linkedin.com/in/ryanrodrigues77/">                              
-    <img           
-      alt="LinkedIn"    
-      title="LinkedIn"             
-      src="https://img.shields.io/badge/-LINKEDIN-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=#9b59b6&labelColor=4B0082&color=1A1A1A"
-    />
-  </a>
-  <a href="https://www.instagram.com/7_ryann_/">
-    <img 
-      alt="Instagram"     
-      title="Instagram" 
-      src="https://img.shields.io/badge/-INSTAGRAM-1A1A1A?style=for-the-badge&logo=instagram&logoColor=#9b59b6&labelColor=4B0082&color=1A1A1A"
-    />
-  </a>
-    <a href="https://github.com/Odachi7?tab=repositories">
-    <img 
-        alt="Estrelas" 
-        title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/Odachi7?style=for-the-badge&logo=star&label=ESTRELAS&color=4B0082&labelColor=1A1A1A&logoColor=white"
-    />
-    </a>
+<p align="center">
+  Building high-performance systems, data pipelines and real-world software.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Student;Building+High+Performance+Systems;C%23+%7C+TypeScript+%7C+Node+%7C+Angular;270%2B+rows%2Fsec+ETL+Data+Pipeline" />
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## `$ whoami`
 
-<img 
-  align="left" 
-  alt="HTML" 
-  title="HTML" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="CSS" 
-  title="CSS" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Tailwind CSS" 
-  title="Tailwind CSS" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="JavaScript" 
-  title="JavaScript" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="TypeScript" 
-  title="TypeScript" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="React / React Native" 
-  title="React / React Native" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Next.js" 
-  title="Next.js" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Node.js" 
-  title="Node.js" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="NestJS" 
-  title="NestJS" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://nestjs.com/img/logo-small.svg" 
-/>
-<img 
-  align="left" 
-  alt="Git" 
-  title="Git" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Express.js" 
-  title="Express.js" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Firebase" 
-  title="Firebase" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" 
-/>
-<img 
-  align="left" 
-  alt="MongoDB" 
-  title="MongoDB" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="PostgreSQL" 
-  title="PostgreSQL" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Notion" 
-  title="Notion" 
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" 
-/>
+```ts
+const ryan = {
+  name:     "Ryan Rodrigues",
+  age:      18,
+  location: "Brasil 🇧🇷",
+  role:     "Full Stack Developer (CLT)",
+  studying: "Software Engineering",
 
+  currentWork: "Large-scale multi-tenant ERP — architecture, performance and complex systems",
+  goal:        "Senior Software Engineer · iFood · Nubank · Google",
 
-<br/>
-<br/>
+  interests: [
+    "Distributed Systems",
+    "Data Engineering",
+    "Software Architecture",
+    "Security & Cryptography",
+    "ZK-Proofs",
+    "Infrastructure",
+  ],
+};
+```
 
-### 📊 Estatísticas
-   
+---
+
+## `$ stack --list`
+
+**Frontend**
+
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=odachi7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=odachi7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind,bootstrap" />
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/odachi7/odachi7/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/odachi7/odachi7/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/odachi7/odachi7/output/github-contribution-grid-snake.svg">
-</picture>
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+</p>
+
+---
+
+## `$ experience --production`
+
+> Development and maintenance of web and desktop solutions in a **large-scale multi-tenant ERP**, focused on integrations, automation and performance:
+
+- 🔗 **Third-party integrations** — Implementation and maintenance of integrations with platforms such as Bling, Tray, Lista Mais and other e-commerce and management systems
+- 🔄 **Data sync & import** — Import pipelines with validations, inconsistency handling, logging and focus on stability and reliability
+- 📊 **Financial BI** — Data modeling, views and query tuning, and dashboard development to support business decision-making
+- 🧩 **Frontend — Angular** — Modern, responsive interfaces with TypeScript and Tailwind CSS, with dynamic per-client customization
+- ⚙️ **Backend — C# / .NET** — APIs, business rules and PostgreSQL integration in a multi-tenant environment
+- 🏗️ **Legacy modernization** — Replaced manual VB6 routines with a modern C# + ETL solution, cutting import times from **10+ hours down to under 1 hour**
+
+---
+
+## `$ projects --latest`
+
+> 📌 **LATEST PROJECT**
+
+### ⚡ ETL Engine — High Performance Data Import System
+`C#` `.NET` `WPF` `ETL` `SQL`
+
+ETL system built from scratch for database-to-database migrations — no coding required.
+
+| Metric | Before | After |
+|---|---|---|
+| 500k records | ~10 hours | **~30 minutes** |
+| Throughput | manual VB6 scripts | **270+ rows/second** |
+| Who can operate | devs only | **any team member** |
+
+**What it does:**
+- Configurable source and destination database connection
+- Visual column mapping — no code needed
+- Automated execution for large volumes
+- Imports **1M+ records in ~1 hour**
+
+> Eliminated rework, reduced operational cost and made the import process accessible to non-developers.
+
+---
+
+## `$ stats --github`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=odachi7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odachi7&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odachi7&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/odachi7/odachi7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/odachi7/odachi7/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/odachi7/odachi7/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+## `$ contact`
+
+<p>
+  <a href="https://www.linkedin.com/in/ryanrodrigues77/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Odachi7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/7_ryann_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=odachi7&color=00F7FF&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <i>"Build systems that scale. Write code that lasts. Engineer solutions that matter."</i>
+</p>
