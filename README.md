@@ -1,6 +1,6 @@
 <h1 align="center">Ryan Rodrigues</h1>
          
-<p align="center">
+<p align="center">    
   Full Stack Software Developer • Software Engineering Student               
 </p>         
                         
