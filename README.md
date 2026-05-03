@@ -29,8 +29,6 @@ const ryan = {
     "Distributed Systems",
     "Data Engineering",
     "Software Architecture",
-    "Security & Cryptography",
-    "ZK-Proofs",
     "Infrastructure",
   ],
 };
