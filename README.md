@@ -107,10 +107,6 @@ ETL system built from scratch for database-to-database migrations — no coding 
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Odachi7&theme=tokyonight" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/odachi7/odachi7/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/odachi7/odachi7/output/github-contribution-grid-snake-dark.svg">
