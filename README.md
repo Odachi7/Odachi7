@@ -101,14 +101,13 @@ ETL system built from scratch for database-to-database migrations — no coding 
 ---
 
 <h1 align="left">stats github</h1>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odachi7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odachi7&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Odachi7&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Odachi7&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odachi7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Odachi7&theme=tokyonight" />
 </p>
 
 <p align="center">
