@@ -2,7 +2,7 @@
               
 <p align="center">    
   Full Stack Software Developer • Software Engineering Student               
-</p>         
+</p>             
                             
 <p align="center">      
   Building high-performance systems, data pipelines and real-world software.
