@@ -77,26 +77,47 @@ const ryan = {
 
 ---
 
-> 📌 **LATEST PROJECT**
+> > 📌 **LATEST PROJECT**
 
-### ⚡ ETL Engine — High Performance Data Import System
-`C#` `.NET` `WPF` `ETL` `SQL`
+### ⚡ High Performance ETL Platform
 
-ETL system built from scratch for database-to-database migrations — no coding required.
+`C#` `.NET 9` `WPF` `PostgreSQL` `ETL` `SQL` `Excel`
 
-| Metric | Before | After |
-|---|---|---|
-| 500k records | ~10 hours | **~30 minutes** |
-| Throughput | manual VB6 scripts | **270+ rows/second** |
-| Who can operate | devs only | **any team member** |
+ETL platform built from scratch for high-volume data imports, migrations and transformations — with a visual workflow, reusable rules and operational monitoring.
+
+| Metric          | Before                  | After                                 |
+| --------------- | ----------------------- | ------------------------------------- |
+| 500k records    | ~10 hours               | **~30 minutes**                       |
+| Large imports   | manual routines         | **1M+ records/hour**                  |
+| Lookups         | thousands of DB queries | **batched preload + in-memory cache** |
+| Rule changes    | code/deploy required    | **runtime custom rules**              |
+| Who can operate | devs only               | **any team member**                   |
 
 **What it does:**
-- Configurable source and destination database connection
-- Visual column mapping — no code needed
-- Automated execution for large volumes
-- Imports **1M+ records in ~1 hour**
 
-> Eliminated rework, reduced operational cost and made the import process accessible to non-developers.
+* Visual source and destination configuration
+* No-code column mapping with transformations and validations
+* High-performance streaming + batch ETL pipeline
+* Database → Database migrations
+* Excel → Database imports
+* Database → Excel exports
+* SQL Script generation
+* Batch execution for multiple projects
+* Reusable templates, lookups and global rules
+* Runtime Rule Studio with custom C# transformations
+* Preview engine using the real ETL pipeline before execution
+* Row/column-level diagnostics and execution reports
+
+**Technical highlights:**
+
+* Built a multi-stage ETL engine: `Read → Transform → Validate → Load`
+* Optimized lookup resolution by converting thousands of database calls into a single batched query per processing block
+* Used in-memory dictionaries and layered cache to reduce database roundtrips
+* Added runtime-compiled custom rules, allowing new transformations without redeploying the app
+* Implemented detailed error tracking with affected row, column, translated message and technical details
+
+> Reduced migration time from hours to minutes while turning a developer-only process into a reusable operational platform.
+
 
 ---
 
