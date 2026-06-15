@@ -5,7 +5,7 @@
 </p>                 
                             
 <p align="center">                
-  Building high-performance systems, data pipelines and real-world software.
+  Building high-performance systems, data pipelines and real-world software.    
 </p>
 
 <p align="center">
