@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Student;Building+High+Performance+Systems;C%23+%7C+TypeScript+%7C+Node+%7C+Angular;270%2B+rows%2Fsec+ETL+Data+Pipeline" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering;Building+High+Performance+Systems;C%23+%7C+TypeScript+%7C+Node+%7C+Angular;270%2B+rows%2Fsec+ETL+Data+Pipeline" />
 </p>
 
 ---
