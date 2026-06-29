@@ -124,7 +124,8 @@ ETL platform built from scratch for high-volume data imports, migrations and tra
 <h1 align="left">stats github</h1>
 <div align="center">
   <a href="https://https://github.com/Odachi7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Odachi7&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Odachi7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Odachi7&theme=tokyonight&hide_border=true" />
 </div>
 
 <p align="center">
