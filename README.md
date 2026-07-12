@@ -23,7 +23,7 @@ const ryan = {
   studying: "Software Engineering",
 
   currentWork: "Large-scale multi-tenant ERP — architecture, performance and complex systems",
-  goal:        "Senior Software Engineer · iFood · Nubank · Google",
+  goal:        "Senior Software Engineer / Staff Software Engineer",
 
   interests: [
     "Distributed Systems",
