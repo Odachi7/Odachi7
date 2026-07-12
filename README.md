@@ -1,163 +1,165 @@
 <h1 align="center">Ryan Rodrigues</h1>
-              
-<p align="center">    
-  Full Stack Software Developer • Software Engineering                      
-</p>                 
-                                    
-<p align="center">                     
-  Building high-performance systems, data pipelines and real-world software.    
+
+<p align="center">
+  Software Engineer • Backend Development • Enterprise Software
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering;Building+High+Performance+Systems;C%23+%7C+TypeScript+%7C+Node+%7C+Angular;270%2B+rows%2Fsec+ETL+Data+Pipeline" />
+  Building reliable backend systems, data-processing platforms and software for real-world business problems.
 </p>
-
----
-
-```ts
-const ryan = {
-  name:     "Ryan Rodrigues",
-  age:      18,
-  location: "Brasil 🇧🇷",
-  role:     "Full Stack Developer (CLT)",
-  studying: "Software Engineering",
-
-  currentWork: "Large-scale multi-tenant ERP — architecture, performance and complex systems",
-  goal:        "Senior Software Engineer / Staff Software Engineer",
-
-  interests: [
-    "Distributed Systems",
-    "Data Engineering",
-    "Software Architecture",
-    "Infrastructure",
-  ],
-};
-```
-
----
-
-<h1 align="left">stack list</h1>
-
-**Frontend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind,bootstrap" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-</p>
-
----
-
-<h1 align="left">experience production</h1>
-
-> Development and maintenance of web and desktop solutions in a **large-scale multi-tenant ERP**, focused on integrations, automation and performance:
-
-- 🔗 **Third-party integrations** — Implementation and maintenance of integrations with platforms such as Bling, Tray, Lista Mais and other e-commerce and management systems
-- 🔄 **Data sync & import** — Import pipelines with validations, inconsistency handling, logging and focus on stability and reliability
-- 📊 **Financial BI** — Data modeling, views and query tuning, and dashboard development to support business decision-making
-- 🧩 **Frontend — Angular** — Modern, responsive interfaces with TypeScript and Tailwind CSS, with dynamic per-client customization
-- ⚙️ **Backend — C# / .NET** — APIs, business rules and PostgreSQL integration in a multi-tenant environment
-- 🏗️ **Legacy modernization** — Replaced manual VB6 routines with a modern C# + ETL solution, cutting import times from **10+ hours down to under 1 hour**
-
----
-
-> > 📌 **LATEST PROJECT**
-
-### ⚡ High Performance ETL Platform
-
-`C#` `.NET 9` `WPF` `PostgreSQL` `ETL` `SQL` `Excel`
-
-ETL platform built from scratch for high-volume data imports, migrations and transformations — with a visual workflow, reusable rules and operational monitoring.
-
-| Metric          | Before                  | After                                 |
-| --------------- | ----------------------- | ------------------------------------- |
-| 500k records    | ~10 hours               | **~30 minutes**                       |
-| Large imports   | manual routines         | **1M+ records/hour**                  |
-| Lookups         | thousands of DB queries | **batched preload + in-memory cache** |
-| Rule changes    | code/deploy required    | **runtime custom rules**              |
-| Who can operate | devs only               | **any team member**                   |
-
-**What it does:**
-
-* Visual source and destination configuration
-* No-code column mapping with transformations and validations
-* High-performance streaming + batch ETL pipeline
-* Database → Database migrations
-* Excel → Database imports
-* Database → Excel exports
-* SQL Script generation
-* Batch execution for multiple projects
-* Reusable templates, lookups and global rules
-* Runtime Rule Studio with custom C# transformations
-* Preview engine using the real ETL pipeline before execution
-* Row/column-level diagnostics and execution reports
-
-**Technical highlights:**
-
-* Built a multi-stage ETL engine: `Read → Transform → Validate → Load`
-* Optimized lookup resolution by converting thousands of database calls into a single batched query per processing block
-* Used in-memory dictionaries and layered cache to reduce database roundtrips
-* Added runtime-compiled custom rules, allowing new transformations without redeploying the app
-* Implemented detailed error tracking with affected row, column, translated message and technical details
-
-> Reduced migration time from hours to minutes while turning a developer-only process into a reusable operational platform.
-
-
----
- 
-<h1 align="left">stats github</h1>
-<div align="center">
-  <a href="https://https://github.com/Odachi7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Odachi7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Odachi7&theme=tokyonight&hide_border=true" />
-</div>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/odachi7/odachi7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/odachi7/odachi7/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/odachi7/odachi7/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-<h1 align="left">contact</h1> 
-
-<p>
   <a href="https://www.linkedin.com/in/ryanrodrigues77/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Odachi7">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/7_ryann_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="mailto:ryanodachi77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+## About me
+
+I'm a Software Engineer focused on backend development, enterprise software, system integration and data processing.
+
+I work primarily with C#/.NET and PostgreSQL, developing and evolving corporate applications, integrations, data-migration tools and automation platforms. I also have experience modernizing legacy VB6 systems and investigating production issues involving data integrity, synchronization and operational reliability.
+
+Currently studying Software Engineering and continuously deepening my knowledge of backend architecture, system design and distributed systems.
+
+---
+
+## Focus areas
+
+* Backend Engineering
+* Enterprise Software
+* REST APIs and System Integration
+* ETL and Data Processing
+* PostgreSQL and Relational Databases
+* Legacy System Modernization
+* Production Troubleshooting
+* System Design
+
+---
+
+## Featured projects
+
+### ETL Pipeline Architecture Demo
+
+A production-inspired ETL pipeline built with .NET, designed to demonstrate streaming, parallel processing, backpressure, batch persistence, checkpoint recovery and persistent deduplication.
+
+**Highlights**
+
+* Streaming input with `IAsyncEnumerable`
+* Multi-stage producer-consumer pipeline
+* Bounded `Channel<T>` with backpressure
+* Parallel transformation workers
+* PostgreSQL binary `COPY`
+* Batch processing and partial-batch flushing
+* Checkpoint-based recovery
+* Persistent deduplication
+* Docker-based local environment
+
+> This is a sanitized architectural demonstration inspired by a private production platform. It contains no proprietary source code, credentials or customer data.
+
+[View repository](https://github.com/Odachi7/etl-pipeline-architecture-demo)
+
+---
+
+### Software Update Platform
+
+A public demonstration of a centralized software distribution platform for desktop applications.
+
+The project explores how a central server can manage releases, distribute signed artifacts and coordinate updates across a fleet of independent agents.
+
+**Planned highlights**
+
+* ASP.NET Core update server
+* Cross-platform .NET agent
+* Transactional file replacement and rollback
+* Signed release manifests
+* SHA-256 artifact validation
+* Device authentication
+* Deployment rings and phased rollouts
+* Fleet telemetry and monitoring
+* Fleet simulator for local demonstrations
+
+> This project is an independent public implementation inspired by problems encountered in professional software development. It does not reproduce proprietary company code.
+
+[View repository](https://github.com/Odachi7/update_plataform)
+
+---
+
+## Professional experience
+
+I currently work on corporate web and desktop systems used in production by multiple companies.
+
+My work includes:
+
+* Backend development with C#/.NET and ASP.NET Core
+* REST APIs and integration between platforms
+* Data migration and transformation between relational databases
+* PostgreSQL, SQL Server and Firebird queries and routines
+* Production issue investigation and correction
+* Integration of legacy VB6 applications with modern .NET services
+* Automation and software distribution tooling
+
+Previously, I worked with frontend development using React, TypeScript, WordPress and web integrations.
+
+---
+
+## Technologies
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+Additional experience: SQL Server and Firebird.
+
+### Infrastructure and tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
+</p>
+
+---
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=odachi7&color=00F7FF&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Odachi7?style=for-the-badge&logo=github&label=Followers&color=181717" />
+  <img src="https://img.shields.io/github/stars/Odachi7?style=for-the-badge&logo=github&label=Stars&color=f7b500" />
 </p>
 
 <p align="center">
-  <i>"Build systems that scale. Write code that lasts. Engineer solutions that matter."</i>
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Odachi7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Odachi7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
+</p>
+
+---
+
+<p align="center">
+  <i>Building reliable software for complex, real-world problems.</i>
 </p>
