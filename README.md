@@ -7,7 +7,7 @@
 <p align="center">
   Building reliable backend systems, data-processing platforms and software for real-world business problems.
 </p>
-
+          
 <p align="center">
   <a href="https://www.linkedin.com/in/ryanrodrigues77/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
