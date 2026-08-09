@@ -138,28 +138,6 @@ Additional experience: SQL Server and Firebird.
 
 ---
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Odachi7?style=for-the-badge&logo=github&label=Followers&color=181717" />
-  <img src="https://img.shields.io/github/stars/Odachi7?style=for-the-badge&logo=github&label=Stars&color=f7b500" />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Odachi7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Odachi7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-</p>
-
----
-
 <p align="center">
   <i>Building reliable software for complex, real-world problems.</i>
 </p>
