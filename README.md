@@ -5,7 +5,7 @@
 </p>                         
         
 <p align="center">              
-  Building reliable backend systems, data-processing platforms and software for real-world business problems.
+  Building reliable backend systems, data-processing platforms and software for real-world business problems.                       
 </p>
           
 <p align="center">
